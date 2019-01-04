@@ -2,7 +2,7 @@
 
 I am currently a postdoc at the Institut de Biologie de l'École Normale Supérieure (IBENS) in Paris studying transposable elements dynamics in the _Arabidopsis_ genus. I completed my Ph.D. at Harvard University where I studied the adaptation and evolution of polyploid _Arabidopsis arenosa_ populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
 
-# Research history
+### Research history
 
 - 2017-present: Institut de Biologie de l'École Normale Supérieure (IBENS), Paris, FR 
 _FRM post-doctoral fellow_
