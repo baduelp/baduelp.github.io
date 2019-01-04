@@ -2,7 +2,9 @@
 
 <img align="left" src="/images/IMG_20170325_173829-01-v2.jpeg" style="margin-right: 15px;" width="175">
 
-I am currently a postdoc at the Institut de Biologie de l'École Normale Supérieure (IBENS) in Paris studying transposable elements dynamics in the _Arabidopsis_ genus. I completed my Ph.D. at Harvard University where I studied the adaptation and evolution of polyploid _Arabidopsis arenosa_ populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
+<p align="justify">
+I am currently a postdoc at the Institut de Biologie de l'École Normale Supérieure (IBENS) in Paris studying transposable elements dynamics in the <em>Arabidopsis_ genus</em>. I completed my Ph.D. at Harvard University where I studied the adaptation and evolution of polyploid <em>Arabidopsis arenosa</em> populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
+</p>
 
 ### Research history
 
