@@ -3,7 +3,9 @@ All custom code is available in [this](https://github.com/baduelp/public/) publi
 
 ### Principal Component Analysis of Allele-Frequency Population Data
 
-<img align="left" src="/images/PC1 & 2 of fake PCA centered 23-Jun-2017.png" style="margin-right: 15px;" width="300">
+<p align="center">
+<img src="/images/PC1 & 2 of fake PCA centered 23-Jun-2017.png" style="margin-right: 15px;" width="500">
+</p>
 
 <p align="justify">
   <em>plot_AF_PCA.m</em>  
