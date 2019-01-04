@@ -4,14 +4,14 @@ I am currently a postdoc at the Institut de Biologie de l'École Normale Supéri
 
 ### Research history
 
-- 2017-present: Institut de Biologie de l'École Normale Supérieure (IBENS), Paris, FR 
-_FRM post-doctoral fellow_
+- 2017-present: Institut de Biologie de l'École Normale Supérieure (IBENS), Paris, FR  
+_FRM post-doctoral fellow_  
 Assessing transposable elements (TEs) dynamics in _Arabidopsis_
 
-- 2017: John Innes Centre, Norwich, UK
-_post-doctoral fellow_
+- 2017: John Innes Centre, Norwich, UK  
+_Post-doctoral fellow_  
 Evaluated ploidy-dependent genome evolution in _A. arenosa_. 
 
-- 2012-2016: Harvard University, Cambridge MA, USA
-_Ph.D. student_
+- 2012-2016: Harvard University, Cambridge MA, USA  
+_Ph.D. student_  
 Studied genetic mechanisms of habitat adaptation in _A. arenosa_. 
