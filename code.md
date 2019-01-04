@@ -1,5 +1,5 @@
 ## Code
-All custom code is available in [this](https://github.com/baduelp/public/) public github repository. 
+All custom code is available [here](https://github.com/baduelp/public/). 
 
 ### Principal Component Analysis of Allele-Frequency Population Data
 
