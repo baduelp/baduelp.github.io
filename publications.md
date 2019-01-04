@@ -1,4 +1,6 @@
 ## Publications
+[Monnahan P*, Kolář F*, **Baduel P***, Sailer C, Koch J, Horvath R, Laenen B, Schmickl R, Paajanen P, Fuxová G, Holcová M, Arnold B, Weismann C, Marhold K, Slotte T, Bomblies K, Yant L. _Pervasive population genomic consequences of genome duplication in_ A. arenosa. Under review. bioRxiv.org. 10.1101/411041, 09/2018](https://doi.org/10.1101/411041)  
+*_authors contributed equally_
 
 [**Baduel P**, Bray S, Vallejo-Marin M, Kolář F, Yant L. _The ‘Polyploid Hop’: shifting challenges and opportunities over the evolutionary lifespan of genome duplications_. Frontiers in Ecology and Evolution, 10.3389/fevo.2018.00117, 07/2018](https://doi.org/10.3389/fevo.2018.00117)
 
