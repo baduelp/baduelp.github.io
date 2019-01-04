@@ -1,6 +1,6 @@
 ## Code
 
-# Principal Component Analysis of Allele-Frequency Population Data
+### Principal Component Analysis of Allele-Frequency Population Data
 
 <img align="left" src="/images/PC1 & 2 of fake PCA centered 23-Jun-2017.png" style="margin-right: 15px;" width="500">
 
