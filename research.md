@@ -1,6 +1,7 @@
 ## Research
 
 <img align="right" src="/images/DSC01221.JPG" width="200" rotate="180">
+<em>Tetraploid A. arenosa on railway banks in Northern Poland</em>
 
 During my PhD with Professor Bomblies at Harvard University, I studied habitat adaptation in the autotetraploid _Arabidopsis arenosa_ focusing on their successful colonization of disturbed lands. Using genomic and transcriptomic analyses combined with quantitative trait locus mapping and transgenics, I was able to discover that ruderal populations of _A. arenosa_ possess adaptive alleles introgressed from diploids. This led me to question the nature, if any, of a tetraploid advantage for invasiveness and colonization ability, which here seems to rely paradoxically on diploid alleles.
 
