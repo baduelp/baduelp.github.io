@@ -24,5 +24,5 @@ Studied genetic mechanisms of habitat adaptation in _A. arenosa_.
 
 [<img align="left" src="/images/linkedinlogo2.png" style="margin-right: 15px;" width="30">](https://www.linkedin.com/in/pierre-baduel-2b5280105/)
 [<img align="left" src="/images/twitterlogo.jpg" style="margin-right: 15px;" width="30">](https://twitter.com/pierrebaduel)
-[<img align="left" src="/images/rglogo.jpg" style="margin-right: 15px;" width="30">](https://www.researchgate.net/profile/Pierre_Baduel)
-[<img align="left" src="/images/gmaillogo.jpg" style="margin-right: 15px;" width="30">](mailto:pbaduel@biologie.ens.fr)
+[<img align="left" src="/images/rglogo.jpg" style="margin-right: 15px" width="27">](https://www.researchgate.net/profile/Pierre_Baduel)
+[<img align="left" src="/images/gmaillogo.jpg" style="margin-right: 15px;" width="27">](mailto:pbaduel@biologie.ens.fr)
