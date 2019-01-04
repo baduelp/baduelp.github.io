@@ -21,3 +21,9 @@ In the group of Dr. Colot at the IBENS in Paris, I have initiated a collaborativ
 <p align="justify">
 Although most TE insertions are deleterious and counter-selected, there is evidence that in some cases TEs can become beneficial. Notably, TEs can bring the expression of neighbouring genes under their own control and create epiallelic variation which can be exploited in the adaptation of populations notably to their environment. However, the breadth and diversity of such TE-associated epigenetic variation there is in nature remain unknown. To identify comprehensively this type of variation, I am deploying an integrative approach that combines genomic, epigenomic and transcriptomic data available for >1,000 accessions of the model plant <em>Arabidopsis thaliana</em> taken from across the globe. With this project, I hope to provide a first comprehensive assessment of the role of TE sequences as “epimutagens” and its potential relevance for evolution.
 </p>
+
+<p align="center">
+<img src="/images/logo_ibens.gif" width="200">
+</p>
+
+
