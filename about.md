@@ -18,4 +18,3 @@ Evaluated ploidy-dependent genome evolution in _A. arenosa_.
 _Ph.D. student_  
 Studied genetic mechanisms of habitat adaptation in _A. arenosa_. 
 
-[**Full CV**](/images/Baduel_CV.pdf) 
