@@ -17,3 +17,5 @@ Evaluated ploidy-dependent genome evolution in _A. arenosa_.
 - 2012-2016: Harvard University, Cambridge MA, USA  
 _Ph.D. student_  
 Studied genetic mechanisms of habitat adaptation in _A. arenosa_. 
+
+[**Full CV**](/images/Baduel_CV.pdf) 
