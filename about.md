@@ -1,6 +1,6 @@
 ---
 <p align="center"> 
-  <img align="center" src="/images/Logo-researcher.png" width="75">
+  <img align="center" src="/images/Researcher.png" width="75">
 </p>
 
 ---
