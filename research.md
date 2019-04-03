@@ -1,5 +1,5 @@
-<p align="right"> <img align="left" src="/images/Logo-research.png" style="margin-right: 15px;"  width="50">   </p><br/>
-<br/>
+<p align="right"> <img align="right" src="/images/Logo-research.png" style="margin-right: 15px;"  width="50"></p><br/>
+
 ## Research 
 
 <img align="left" src="/images/DSC01221.JPG" style="margin-right: 15px;" width="175">
