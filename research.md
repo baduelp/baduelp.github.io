@@ -1,4 +1,4 @@
-<p align="right"> <img align="right" src="/images/Logo-research.png" style="margin-right: 15px;"  width="50"></p>
+<p align="right"> <img align="right" src="/images/Logo-research.png" width="50"></p>
 
 ## Research 
 
