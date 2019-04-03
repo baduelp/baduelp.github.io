@@ -1,3 +1,10 @@
+---
+<p align="center"> 
+  <img align="center" src="/images/Logo-researcher.png" width="75">
+</p>
+
+---
+
 ## About
 
 <img align="left" src="/images/IMG_20170325_173829-01-v2.jpeg" style="margin-right: 15px;" width="175">
