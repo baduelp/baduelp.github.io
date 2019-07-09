@@ -1,10 +1,3 @@
----
-<p align="center"> 
-  <img align="center" src="/images/Logo-code.png" width="75">
-</p>
-
----
-
 ## Code
 All custom code is available [here](https://github.com/baduelp/public/). 
 
