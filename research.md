@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 ---
 <p align="center"> 
   <img align="center" src="/images/Logo-research.png" width="75">
 </p>
 
 ---
-=======
-## Research
->>>>>>> parent of 832f1ac... Update research.md
 
 ## Research 
   
