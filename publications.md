@@ -6,7 +6,7 @@
 ---
 
 ## Publications
-**Baduel P**, Quadrana L, Hunter B, Bomblies K, Colot V. _Transposable element over-accumulation in autopolyploids results from relaxed purifying selection and provides variants for rapid local adaptation_. bioRxiv; doi: [10.1101/686584](https://doi.org/10.1101/686584), 07/2019
+**Baduel P**, Quadrana L, Hunter B, Bomblies K, Colot V. _Transposable element over-accumulation in autopolyploids results from relaxed purifying selection and provides variants for rapid local adaptation_. bioRxiv, [10.1101/686584](https://doi.org/10.1101/686584), 07/2019
  
 Monnahan P*, Kolář F*, **Baduel P***, Sailer C, Koch J, Horvath R, Laenen B, Schmickl R, Paajanen P, Fuxová G, Holcová M, Arnold B, Weismann C, Marhold K, Slotte T, Bomblies K, Yant L. _Pervasive population genomic consequences of genome duplication in_ A. arenosa. Nature Ecology & Evolution, [10.1038/s41559-019-0807-4](https://doi.org/10.1038/s41559-019-0807-4), 02/2019  
 *_authors contributed equally_
