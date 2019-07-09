@@ -1,4 +1,4 @@
-## <img align="left" src="/images/Logo-research.png" style="margin-right: 15px;" width="20"> Research
+## Research
 
 <img align="left" src="/images/DSC01221.JPG" style="margin-right: 15px;" width="175">
 
