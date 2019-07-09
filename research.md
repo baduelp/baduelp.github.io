@@ -2,9 +2,7 @@
 <p align="center"> 
   <img align="center" src="/images/Logo-research.png" width="75">
 </p>
-
----
-
+---  
 ## Research 
   
 <img align="left" src="/images/DSC01221.JPG" style="margin-right: 15px;" width="175">
