@@ -1,6 +1,4 @@
-<img align="left" src="/images/Logo-research.png" width="50">
-
-## Research 
+## Research <img align="right" src="/images/Logo-research.png" width="20">
 
 <img align="left" src="/images/DSC01221.JPG" style="margin-right: 15px;" width="175">
 
