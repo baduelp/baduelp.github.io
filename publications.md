@@ -1,10 +1,3 @@
----
-<p align="center"> 
-  <img align="center" src="/images/Logo-publi.png" width="75">
-</p>
-
----
-
 ## Publications
 **Baduel P**, Quadrana L, Hunter B, Bomblies K, Colot V. _Transposable element over-accumulation in autopolyploids results from relaxed purifying selection and provides variants for rapid local adaptation_. bioRxiv; doi: [10.1101/686584](https://doi.org/10.1101/686584), 07/2019
  
