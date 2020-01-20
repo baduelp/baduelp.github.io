@@ -4,3 +4,5 @@ google_analytics: UA-59172984-3
 twitter_username: pierrebaduel
 linkedin_username: pierre-baduel-2b5280105
 logo: 
+plugins:
+  - jekyll-gist
