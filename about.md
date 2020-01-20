@@ -1,3 +1,7 @@
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/pierrebaduel maxwidth=500 limit=5 %}
+</div>
+
 ## About
 
 <img align="left" src="/images/IMG_20170325_173829-01-v2.jpeg" style="margin-right: 15px;" width="175">
