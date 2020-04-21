@@ -6,4 +6,5 @@ linkedin_username: pierre-baduel-2b5280105
 timezone: Europe/Paris
 future: true
 logo: 
-plugins: ['jekyll-twitter-plugin']
+plugins: 
+  - jekyll-gist
