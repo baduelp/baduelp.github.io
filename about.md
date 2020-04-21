@@ -25,7 +25,7 @@ Studied genetic mechanisms of habitat adaptation in _A. arenosa_.
 ### Feed
 
 <div class="jekyll-twitter-plugin" align="center">
-    <div class="jekyll-twitter-plugin"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 500px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; height: 1920.98px;" data-widget-id="profile:pierrebaduel" title="Twitter Timeline"></iframe>
+    <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/pierrebaduel?ref_src=twsrc%5Etfw">Tweets by pierrebaduel</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
