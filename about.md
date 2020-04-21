@@ -22,6 +22,13 @@ Evaluated ploidy-dependent genome evolution in _A. arenosa_.
 _Ph.D. student_  
 Studied genetic mechanisms of habitat adaptation in _A. arenosa_. 
 
+### Feed
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/pierrebaduel maxwidth=500 limit=5 %}
+</div>
+
+
 ### Contact
 
 [<img align="left" src="/images/linkedinlogo2.png" style="margin-right: 15px;" width="30">](https://www.linkedin.com/in/pierre-baduel-2b5280105/)
