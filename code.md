@@ -1,5 +1,5 @@
-## Code
-All custom code is available [here](https://github.com/baduelp/public/). 
+## MATLAB code
+Custom MATLAB functions are available on my public GitHub repository [here](https://github.com/baduelp/public/tree/master/MATLAB). 
 
 ### Principal Component Analysis of Allele-Frequency Population Data
 
