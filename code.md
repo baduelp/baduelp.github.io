@@ -1,7 +1,20 @@
 ## MATLAB code
 Custom MATLAB functions are available on my public GitHub repository [here](https://github.com/baduelp/public/tree/master/MATLAB). 
 
-### Principal Component Analysis of Allele-Frequency Population Data
+### Map of markers with color-coded values
+
+<p align="center">
+<img src="/images/Position of populations.png" >
+</p>
+
+<p align="justify">
+<em>plot_POPmap_function.m</em>  
+  
+  This Matlab function display markers on a world Mercator-projection map with color-coded values to display quantitative or categorical information. 
+</p>  
+  
+
+### Principal Component Analysis (PCA) of Allele-Frequency population data
 
 <p align="center">
 <img src="/images/PC1 & 2 of fake PCA centered 23-Jun-2017.png" style="margin-right: 15px;" width="500">
