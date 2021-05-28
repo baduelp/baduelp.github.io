@@ -17,7 +17,7 @@ Custom MATLAB functions are available on my public GitHub repository [here](http
 ### Principal Component Analysis (PCA) of Allele-Frequency population data
 
 <p align="center">
-<img src="/images/PC1 & 2 of fake PCA centered 23-Jun-2017.png" style="margin-right: 15px;" width="250">
+<img src="/images/PC1 & 2 of fake PCA centered 23-Jun-2017.png" style="margin-right: 15px;" width="400">
 </p>
 
 <p align="justify">
