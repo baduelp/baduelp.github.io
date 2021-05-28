@@ -10,7 +10,7 @@ Custom MATLAB functions are available on my public GitHub repository [here](http
 <p align="justify">
 <em>plot_POPmap_function.m</em>  
   
-  This Matlab function display markers on a world Mercator-projection map with color-coded values to display quantitative or categorical information. 
+  This Matlab function displays markers on a world Mercator-projection map with color-coded values to display quantitative or categorical information. 
 </p>  
   
 
