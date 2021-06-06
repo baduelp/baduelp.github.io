@@ -1,11 +1,11 @@
 # Custom code
 
 ## SPLITREADER pipeline 
-The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB 2021 [10.1007/978-1-0716-1134-0_15](https://doi.org/10.1007/978-1-0716-1134-0_15) are available on my public GitHub repository [here](https://github.com/baduelp/public/tree/master/SPLITREADER). <br/>
-In addition, accessory files and wrapper scripts are available in [/thaliana](/SPLITREADER/thaliana) to run the SPLITREADER pipeline on the _A. thaliana_ genome. <br/> 
+The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB [2021](https://doi.org/10.1007/978-1-0716-1134-0_15) are available on my public GitHub [repository](https://github.com/baduelp/public/tree/master/SPLITREADER). <br/>
+In addition, accessory files and wrapper scripts are supplied to run the SPLITREADER pipeline on the _A. thaliana_ genome. <br/> 
 
 ## MATLAB genomic toolbox
-Custom MATLAB functions for genomics are available on my public GitHub repository [here](https://github.com/baduelp/public/tree/master/MATLAB). 
+Custom MATLAB functions for genomics can be downloaded from [here](https://github.com/baduelp/public/tree/master/MATLAB). 
 
 ### Map of markers with color-coded values
 
