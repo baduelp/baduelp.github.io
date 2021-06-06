@@ -1,5 +1,5 @@
-## MATLAB code
-Custom MATLAB functions are available on my public GitHub repository [here](https://github.com/baduelp/public/tree/master/MATLAB). 
+## MATLAB genomic toolbox
+Custom MATLAB functions for genomics are available on my public GitHub repository [here](https://github.com/baduelp/public/tree/master/MATLAB). 
 
 ### Map of markers with color-coded values
 
