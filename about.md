@@ -1,4 +1,4 @@
-## About
+# About
 
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="175">
 
@@ -8,7 +8,7 @@ I am currently a postdoc at the Institut de Biologie de l'École Normale Supéri
 
 
 
-### Research history
+## Research history
 
 - 2017-present: Institut de Biologie de l'École Normale Supérieure (IBENS), Paris, FR  
 _FRM post-doctoral fellow_  
@@ -22,7 +22,7 @@ Evaluated ploidy-dependent genome evolution in _A. arenosa_.
 _Ph.D. student_  
 Studied genetic mechanisms of habitat adaptation in _A. arenosa_. 
 
-### Contact
+## Contact
 
 [<img align="left" src="/images/gmaillogo.jpg" style="margin-right: 15px;" width="27">](mailto:pbaduel@biologie.ens.fr)
 [<img align="left" src="/images/twitterlogo.jpg" style="margin-right: 15px;" width="30">](https://twitter.com/pierrebaduel)<br/>
