@@ -3,7 +3,7 @@
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="175">
 
 <p align="justify">
-I am currently a postdoc in the Genome dynamics and epigenetic variation [(GDEV)](http://www.ibens.ens.fr/spip.php?rubrique37&lang=en) group of Dr. Vincent COLOT at the Institut de Biologie de l'École Normale Supérieure (IBENS) in Paris studying transposable elements dynamics in the <em>Arabidopsis</em> genus. I completed my Ph.D. in the lab of Dr. Kirsten BOMBLIES at Harvard University where I studied the adaptation and evolution of polyploid <em>Arabidopsis arenosa</em> populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
+I am currently a postdoc in the Genome dynamics and epigenetic variation ([GDEV](http://www.ibens.ens.fr/spip.php?rubrique37&lang=en)) group of Dr. Vincent COLOT at the Institut de Biologie de l'École Normale Supérieure (IBENS) in Paris studying transposable elements dynamics in the <em>Arabidopsis</em> genus. I completed my Ph.D. in the lab of Dr. Kirsten BOMBLIES at Harvard University where I studied the adaptation and evolution of polyploid <em>Arabidopsis arenosa</em> populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
 </p>
 
 
