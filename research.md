@@ -39,8 +39,8 @@ Nonetheless, I find evidence that TE insertions can be more than just a burden a
 </p>
 
 
-<p align="center">
+<p align="center"><a href="https://www.ibens.ens.fr/?lang=en">
 <img src="/images/logo_ibens.gif" width="200" alt="https://www.ibens.ens.fr/?lang=en">
-</p>
+  </a></p>
 
 
