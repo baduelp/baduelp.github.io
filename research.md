@@ -40,7 +40,7 @@ Nonetheless, I find evidence that TE insertions can be more than just a burden a
 
 
 <p align="center">
-<img src="/images/logo_ibens.gif" width="200">
+[<img src="/images/logo_ibens.gif" width="200">](https://www.ibens.ens.fr/?lang=en)
 </p>
 
 
