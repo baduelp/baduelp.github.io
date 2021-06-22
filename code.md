@@ -7,6 +7,10 @@ In addition, accessory files and wrapper scripts are supplied to run the SPLITRE
 ## MATLAB genomic toolbox
 Custom MATLAB functions for genomics can be downloaded from [here](https://github.com/baduelp/public/tree/master/MATLAB). 
 
+### Circular distribution across chromosomes (Circos-plots)
+
+Upcoming
+
 ### Map of markers with color-coded values
 
 <p align="center">
