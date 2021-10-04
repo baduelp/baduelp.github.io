@@ -12,7 +12,7 @@ I am currently a CNRS researcher (Chargé de Recherche) in the Genome dynamics a
 _CNRS researcher_  
 Investigating TE dynamics and polyploidy in _Arabidopsis_
 
-- 2017-2021: Institut de Biologie de l'École Normale Supérieure (IBENS), Paris, FR  
+- 2017-2021: IBENS, Paris, FR  
 _FRM post-doctoral fellow_  
 Assessed TE dynamics in _Arabidopsis thaliana_ and _arenosa_
 
