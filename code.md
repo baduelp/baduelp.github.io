@@ -12,7 +12,7 @@ Custom MATLAB functions for genomics can be downloaded from [here](https://githu
 
 ### Circular distribution across chromosomes (Circos-plots)
 
-Upcoming soon.
+Upcoming soon
 
 ### Map of markers with color-coded values
 
