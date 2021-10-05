@@ -1,4 +1,7 @@
-# Custom code
+<p>
+<img align="left" src="/images/customcode.png" style="margin-right: 0px;" width="800">
+<br/> <br/> <br/> <br/>
+</p>
 
 ## SPLITREADER pipeline 
 The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB [2021](https://doi.org/10.1007/978-1-0716-1134-0_15), are available on my public GitHub [repository](https://github.com/baduelp/public/tree/master/SPLITREADER). <br/>
