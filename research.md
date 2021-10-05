@@ -20,6 +20,9 @@ Using an updated pipeline to detect TE insertion polymorphisms (TIPs) from short
 Furthermore, we also found that a naturally truncated variant of <em>NRPE1</em> (a key component of the RdDM pathway which targets DNA methylation over TEs) causes lower CHH methylation and higher levels of transposition, largely by enhancing the environmental sensitivity (GxE) of TEs. Strikingly, this mutator <em>NRPE1</em> allele is enriched at the edge of the environmental niche of <em>A. thaliana</em> where it itself shows signature of positive selection, akin in a way to bacterial mutator alleles that can be temporarily beneficial in harsh environments. How such an allele has been retained over long term in <em>A. thaliana</em> opens exciting avenues of inquiry, especially in times of climate crisis where TEs may be essential genomic players in the demise or rescue of native populations.
 </p>
 
+
+**Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
+
 ### Evaluating transposable elements dynamics following auto-polyploidization in _Arabidopsis arenosa_
 
 <img align="left" src="/images/DSC01221.JPG" style="margin-right: 15px;" width="175">
@@ -38,6 +41,10 @@ In the group of Dr. Colot at the IBENS in Paris, I have initiated a collaborativ
 Nonetheless, I find evidence that TE insertions can be more than just a burden and occasionally contribute to the adaptive potential of polyploid populations. In tetraploid <em>A. arenosa</em>, TE insertions appear to be under local positive selection when within environmentally responsive genes notably the major flowering-time repressor gene <em>FLOWERING LOCUS C</em> (<em>FLC</em>). At this locus, I identified an exonic TE insertion that is specifically associated with the rapid-cycling tetraploid lineage that colonized railways, supporting the idea that TEs can generate alleles enabling rapid adaptation to novel habitats. Yet, the higher TE load in polyploids suggests that in the long run, the accumulation of deleterious mutations, in particular genic TE insertions, could have a major negative impact on the evolution of polyploids. This is one of the main reasons why I argued that, unless selected for, polyploidy is a transient state that will likely eventually result in extinction, or stabilization of the lineage by re-diploidization. I envision something we called a ‘polyploid hop’, in which the increased genetic diversity, as well as other mechanistic and physiological advantages of polyploid populations, may enable adaptation to new and more challenging environments. In the process, TEs might potentially also reshape genomes by causing ectopic recombination, which could lead to genome divergence and reproductive isolation.
 </p>
 
+**Baduel P**, Quadrana L, Hunter B, Bomblies K, Colot V. _Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation_. Nature Communications,[10.1038/s41467-019-13730-0](https://doi.org/10.1038/s41467-019-13730-0), 12/2019
+
+Monnahan P\*, Kolář F\*, **Baduel P**\*, Sailer C, Koch J, Horvath R, Laenen B, Schmickl R, Paajanen P, Fuxová G, Holcová M, Arnold B, Weismann C, Marhold K, Slotte T, Bomblies K, Yant L. _Pervasive population genomic consequences of genome duplication in_ A. arenosa. Nature Ecology & Evolution, [10.1038/s41559-019-0807-4](https://doi.org/10.1038/s41559-019-0807-4), 02/2019  
+*_authors contributed equally_
 
 <p align="center"><a href="https://www.ibens.ens.fr/?lang=en">
 <img src="/images/logo_ibens.gif" width="200" alt="https://www.ibens.ens.fr/?lang=en">
