@@ -24,7 +24,7 @@ Furthermore, we also found that a naturally truncated variant of <em>NRPE1</em> 
 </p>
 
 
-**Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
+**Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. _Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana_. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
 
 ### Evaluating transposable elements dynamics following auto-polyploidization in _Arabidopsis arenosa_
 
