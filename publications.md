@@ -5,13 +5,13 @@
 
 ## 2021
 
-**Baduel P**, Quadrana L. Jumpstarting evolution: How transposition can facilitate adaptation to rapid environmental changes. Current Opinion in Plant Biology, [10.1016/j.pbi.2021.102043](https://doi.org/10.1016/j.pbi.2021.102043), 04/2021.
+**Baduel P**, Quadrana L. _Jumpstarting evolution: How transposition can facilitate adaptation to rapid environmental changes_. Current Opinion in Plant Biology, [10.1016/j.pbi.2021.102043](https://doi.org/10.1016/j.pbi.2021.102043), 04/2021.
 
-**Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
+**Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. _Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana_. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
 
-**Baduel P**, Colot V. The epiallelic potential of transposable elements and its evolutionary significance in plants. Philosophical Transactions of the Royal Society B, [10.1098/rstb.2020.0123](https://doi.org/10.1098/rstb.2020.0123), 04/2021.
+**Baduel P**, Colot V. _The epiallelic potential of transposable elements and its evolutionary significance in plants_. Philosophical Transactions of the Royal Society B, [10.1098/rstb.2020.0123](https://doi.org/10.1098/rstb.2020.0123), 04/2021.
 
-**Baduel P**, Quadrana L, Colot V. Efficient detection of transposable element insertion polymorphisms between genomes using short-read sequencing data. Plant Transposable Elements, Methods in Molecular Biology, [10.1007/978-1-0716-1134-0_15](https://doi.org/10.1007/978-1-0716-1134-0_15), 04/2021.
+**Baduel P**, Quadrana L, Colot V. _Efficient detection of transposable element insertion polymorphisms between genomes using short-read sequencing data_. Plant Transposable Elements, Methods in Molecular Biology, [10.1007/978-1-0716-1134-0_15](https://doi.org/10.1007/978-1-0716-1134-0_15), 04/2021.
 
 
 ## 2019
