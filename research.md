@@ -1,7 +1,6 @@
-
-<img align="left" src="/images/customcode.png" >
-
-# Research
+<p>
+<img align="left" src="/images/customcode.png" style="margin-right: 0px;">
+</p>
 
 <p align="justify">
 My research focuses on the evolution of plant genomes to understand the genetic mechanisms involved and their consequences for adaptation and evolution. I am particularly interested in the evolutionary consequences of <b>transposable element</b> (TE) dynamics and <b>polyploidy</b>, which are both major drivers of genome evolution.
