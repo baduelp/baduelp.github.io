@@ -1,6 +1,6 @@
 <p>
 <img align="left" src="/images/research.png" style="margin-right: 0px;" width="800">
-<br/> <br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/>
 </p>
 
 <p align="justify">
