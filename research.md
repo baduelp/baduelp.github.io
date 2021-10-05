@@ -1,5 +1,5 @@
 <p>
-<img align="left" src="/images/customcode.png" style="margin-right: 0px;">
+<img align="left" src="/images/customcode.png" style="margin-right: 0px;" width="800">
 </p>
 
 <p align="justify">
