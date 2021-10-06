@@ -1,7 +1,9 @@
 <p>
-<img align="left" src="/images/customcode3.png" style="margin-right: 0px;" width="800">
+<img align="left" src="/images/customcode.png" style="margin-right: 0px;" width="800">
 <br/> <br/> <br/> <br/>
 </p>
+
+# Custom code
 
 ## SPLITREADER pipeline 
 The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB [2021](https://doi.org/10.1007/978-1-0716-1134-0_15), are available on my public GitHub [repository](https://github.com/baduelp/public/tree/master/SPLITREADER). <br/>
@@ -36,6 +38,7 @@ Upcoming soon
   
   This Matlab function performs a principal component analysis of allele-frequency population data from next-generation sequencing. It takes as input the N x M matrix containing for each of N sites the allele-frequency of derived alleles in each of the M individuals/populations.
  
+<img align="left" src="/images/band.png" style="margin-right: 0px;" width="800">
   
 
 
