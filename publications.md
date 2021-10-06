@@ -1,7 +1,9 @@
 <p>
-<img align="left" src="/images/publications3.png" style="margin-right: 0px;" width="800">
+<img align="left" src="/images/publications.png" style="margin-right: 0px;" width="800">
 <br/> <br/> <br/> <br/>
 </p>
+
+# Publications
 
 ## 2021
 
