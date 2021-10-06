@@ -1,6 +1,10 @@
 <p>
-<img align="left" src="/images/research3.png" style="margin-right: 0px;" width="800">
+<img align="left" src="/images/research.png" style="margin-right: 0px;" width="800">
 <br/> <br/> <br/> <br/>
+</p>
+
+<p align="center">
+# Research
 </p>
 
 <p align="justify">
@@ -48,6 +52,8 @@ Nonetheless, I find evidence that TE insertions can be more than just a burden a
 
 Monnahan P\*, Kolář F\*, **Baduel P**\*, Sailer C, Koch J, Horvath R, Laenen B, Schmickl R, Paajanen P, Fuxová G, Holcová M, Arnold B, Weismann C, Marhold K, Slotte T, Bomblies K, Yant L. _Pervasive population genomic consequences of genome duplication in_ A. arenosa. Nature Ecology & Evolution, [10.1038/s41559-019-0807-4](https://doi.org/10.1038/s41559-019-0807-4), 02/2019  
 *_authors contributed equally_
+
+<img align="left" src="/images/band.png" style="margin-right: 0px;" width="800">
 
 <p align="center"><a href="https://www.ibens.ens.fr/?lang=en">
 <img src="/images/logo_ibens.gif" width="200" alt="https://www.ibens.ens.fr/?lang=en">
