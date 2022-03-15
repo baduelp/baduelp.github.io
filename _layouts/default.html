@@ -17,7 +17,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url | append: "about" }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="color:#000033"><a href="{{ "/" | absolute_url | append: "about" }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
@@ -25,11 +25,11 @@
           <img src="{{site.logo | relative_url}}" width="166.5" height="195" alt="Logo" />
         {% endif %}
 
-        <p><a href="{{ "/" | absolute_url | append: "research"}}">Research</a></p>
-        <p><a href="{{ "/" | absolute_url | append: "publications" }}">Publications</a></p>
-        <p><a href="{{ "/" | absolute_url | append: "code"}}">Code</a></p>
-        <p><a href="{{ "/" | absolute_url | append: "about"}}">About</a></p>
-        <p><a href="{{ "/" | absolute_url | append: "social"}}">Social</a></p>
+        <p style="color:#000033"><a href="{{ "/" | absolute_url | append: "research"}}">Research</a></p>
+        <p style="color:#000033"><a href="{{ "/" | absolute_url | append: "publications" }}">Publications</a></p>
+        <p style="color:#000033"><a href="{{ "/" | absolute_url | append: "code"}}">Code</a></p>
+        <p style="color:#000033"><a href="{{ "/" | absolute_url | append: "about"}}">About</a></p>
+        <p style="color:#000033"><a href="{{ "/" | absolute_url | append: "social"}}">Social</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
