@@ -1,7 +1,4 @@
-<p>
-<img align="left" src="/images/publications.png" style="margin-right: 0px;" width="800">
-<br/> <br/> <br/> <br/>
-</p>
+<img align="right" src="/images/Logo-publi.png" style="margin-right: 0px;" width="50">
 
 # Publications
 
