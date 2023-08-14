@@ -1,8 +1,4 @@
-<p>
-<img align="left" src="/images/customcode.png" style="margin-right: 0px;" width="800">
-<br/> <br/> <br/> <br/>
-</p>
-
+<img align="right"  src="/images/Logo-code.png" style="margin-right: 0px;" width="80">
 # Custom code
 
 ## SPLITREADER pipeline 
