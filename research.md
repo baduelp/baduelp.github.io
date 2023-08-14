@@ -1,4 +1,4 @@
-<img align="right" src="/images/seedling.png" style="margin-right: 0px;" width="50">
+<img align="right" src="/images/seedling.png" style="margin-right: 0px;" width="100">
 
 # Research
 
