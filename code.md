@@ -1,4 +1,4 @@
-<img align="right"  src="/images/Logo-code.png" style="margin-right: 0px;" width="80">
+<img align="right"  src="/images/Logo-code.png" style="margin-right: 0px;" width="50">
 
 # Custom code
 
