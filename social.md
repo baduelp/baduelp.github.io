@@ -1,3 +1,7 @@
+<br>
+<br>
+<br>
+
 # Tweets
 Follow me on twitter for the latest updates!
 <div class="jekyll-twitter-plugin" align="center">
