@@ -2,6 +2,14 @@
 
 # Publications
 
+## 2023
+
+**Baduel P** and Sasaki E. _The genetic basis of epigenetic variation and its consequences for adaptation_. Current Opinion in Plant Biology, [10.1016/j.pbi.2023.102409](https://doi.org/10.1016/j.pbi.2023.102409), 08/2023.
+
+## 2022
+
+Sasaki T, Ro K, Caillieux E, Manabe R, Bohl‐Viallefond G, **Baduel P**, Colot V, Kakutani T, Quadrana L. _Fast co‐evolution of anti‐silencing systems shapes the invasiveness of Mu‐like DNA transposons in eudicots_. The EMBO Journal, [10.15252/embj.2021110070](https://doi.org/10.15252/embj.2021110070),04/2022.
+
 ## 2021
 
 **Baduel P**, Quadrana L. _Jumpstarting evolution: How transposition can facilitate adaptation to rapid environmental changes_. Current Opinion in Plant Biology, [10.1016/j.pbi.2021.102043](https://doi.org/10.1016/j.pbi.2021.102043), 04/2021.
