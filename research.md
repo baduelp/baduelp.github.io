@@ -35,7 +35,7 @@ In this axis, we aim at investigating the role of transposable element (TE) mobi
 </p>
 
 <p align="justify">
-<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as of a PhD fellowship from PSL University awarded to Mounia El Messaoudi. 
+<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as by a PhD fellowship from PSL University awarded to Mounia El Messaoudi. 
 </p>
 
 
