@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/seedling.png" width="100"></p>
+<p align="center"><img src="/images/seedling.png" width="120"></p>
 <h1 align="center"> Research </h1>
 
 <p align="justify">
