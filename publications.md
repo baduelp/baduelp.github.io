@@ -1,8 +1,8 @@
 <br>
-<br>
-<br>
+# Publications <img align="center" src="/images/Logo-publi.png" style="margin-right: 0px;" width="50">
 
-# Publications <img align="right" src="/images/Logo-publi.png" style="margin-right: 0px;" width="50">
+<br>
+<br>
 
 ## 2023
 
