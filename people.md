@@ -6,7 +6,11 @@
 
 ## Mounia El Messaoudi (PhD student)
 
+<img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="175">
+
 ## Erwann Caillieux (IE CNRS)
+
+<img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="175">
 
 ## Pierre Baduel (team leader)
 
