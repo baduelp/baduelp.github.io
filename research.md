@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="/images/seedling.png" width="80">
+  <img src="/images/seedling.png" width="250">
   </p>
   
 <br>
