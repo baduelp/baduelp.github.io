@@ -2,7 +2,9 @@
 <h1 align="center"> Research </h1>
 
 <p align="justify">
-My research focuses on the evolution of plant genomes to understand the genetic mechanisms involved and their consequences for adaptation and evolution. I am particularly interested in the evolutionary consequences of <b>transposable element</b> (TE) dynamics and <b>polyploidy</b>, which are both major drivers of genome evolution.
+Our team studies the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation with a particular focus on <b>autopolyploidy</b>. To tackle these questions, we use the reference plant <em>Arabidopsis thaliana</em> as a model and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
+  
+  My research focuses on the evolution of plant genomes to understand the genetic mechanisms involved and their consequences for adaptation and evolution. I am particularly interested in the evolutionary consequences of <b>transposable element</b> (TE) dynamics and <b>polyploidy</b>, which are both major drivers of genome evolution.
 </p>
 
 ### Assessing how the genetic and environmental determinants of natural transposition shape its adaptive potential in _Arabidopsis thaliana_
@@ -24,28 +26,19 @@ Furthermore, we also found that a naturally truncated variant of <em>NRPE1</em> 
 
 **Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. _Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana_. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
 
-### Evaluating transposable elements dynamics following auto-polyploidization in _Arabidopsis arenosa_
-
-<img align="left" src="/images/DSC01221.JPG" style="margin-right: 15px;" width="175">
+### TEs, polyploidy, and allelic exploration: 
 
 <p align="justify">
-During my PhD with Professor Bomblies at Harvard University, followed by a short postdoc at the John Innes Centre in Norwich, UK, I investigated the impact of whole-genome duplication (WGD) on genome evolution in the young natural diploid / autotetraploid system offered by <em>A. arenosa</em>. Leveraging a large genome resequencing dataset encompassing 300 samples of both diploid and tetraploid <em>A. arenosa</em>, I showed that polyploids present increased non-synonymous sequence diversity, and established it was due mainly to increased effective population sizes with an additional effect from the genetic masking of deleterious mutations associated with polysomy. 
+Whole genome duplications (WGDs) are recurrent events throughout eukaryote evolution and the initial adaptive advantage they are associated with has been attributed in part to the increased genetic diversity of polyploid genomes (Baduel et al., _Front Ecol Evol_ 2018). Yet, the molecular mechanisms generating this diversity remain unclear. 
 </p>
 
 <p align="justify">
-In the group of Dr. Colot at the IBENS in Paris, I have initiated a collaborative project to further investigate the genome evolution of autopolyploids in relation to transposable elements (TEs) dynamics. Due to their mostly deleterious effects, TE insertions are indeed predicted to benefit significantly from the genetic masking I showed was at play in autotetraploids. In addition, transposition bursts have been proposed to follow the genome shock of auto-polyploidization, and both mechanisms have been hypothesized to underlie the increased TE content typically observed in polyploids. Using the bioinformatics tools developed by the Colot group to analyze the genomic sequences available in <em>A. arenosa</em>, I was able to comprehensively measure TE mobilization in both diploids and tetraploids. Thus, I showed that the increased TE content observed in tetraploid <em>A. arenosa</em> was mostly driven by the genetic masking associated with polyploidy. In contrast, I could not find any evidence of a transposition burst dating back to the ancestral polyploidization event, demonstrating that WGD is not sufficient to induce such a response and may require additional genetic or environmental determinants. 
+In this axis, we aim at investigating the role of transposable element (TE) mobilization in the rapid generation of genetic variation following WGD. Indeed, TEs are powerful generators of major-effect mutations with specific sensitivities to environmental stress, which confer them a unique potential to contribute to rapid local adaptations. Furthermore, the epigenetic mechanisms that control their mobilization, notably DNA methylation, is disrupted by WGD in several species. Thus, TEs could represent a major engine of phenotypic exploration for neo-polyploids, notably in the face of challenging environments.
 </p>
-
-<img align="center" src="/images/NatComm2019_Figure 5.png" >
 
 <p align="justify">
-Nonetheless, I find evidence that TE insertions can be more than just a burden and occasionally contribute to the adaptive potential of polyploid populations. In tetraploid <em>A. arenosa</em>, TE insertions appear to be under local positive selection when within environmentally responsive genes notably the major flowering-time repressor gene <em>FLOWERING LOCUS C</em> (<em>FLC</em>). At this locus, I identified an exonic TE insertion that is specifically associated with the rapid-cycling tetraploid lineage that colonized railways, supporting the idea that TEs can generate alleles enabling rapid adaptation to novel habitats. Yet, the higher TE load in polyploids suggests that in the long run, the accumulation of deleterious mutations, in particular genic TE insertions, could have a major negative impact on the evolution of polyploids. This is one of the main reasons why I argued that, unless selected for, polyploidy is a transient state that will likely eventually result in extinction, or stabilization of the lineage by re-diploidization. I envision something we called a ‘polyploid hop’, in which the increased genetic diversity, as well as other mechanistic and physiological advantages of polyploid populations, may enable adaptation to new and more challenging environments. In the process, TEs might potentially also reshape genomes by causing ectopic recombination, which could lead to genome divergence and reproductive isolation.
+<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as of a PhD fellowship from PSL University awarded to Mounia El Messaoudi. 
 </p>
-
-**Baduel P**, Quadrana L, Hunter B, Bomblies K, Colot V. _Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation_. Nature Communications,[10.1038/s41467-019-13730-0](https://doi.org/10.1038/s41467-019-13730-0), 12/2019
-
-Monnahan P\*, Kolář F\*, **Baduel P**\*, Sailer C, Koch J, Horvath R, Laenen B, Schmickl R, Paajanen P, Fuxová G, Holcová M, Arnold B, Weismann C, Marhold K, Slotte T, Bomblies K, Yant L. _Pervasive population genomic consequences of genome duplication in_ A. arenosa. Nature Ecology & Evolution, [10.1038/s41559-019-0807-4](https://doi.org/10.1038/s41559-019-0807-4), 02/2019  
-*_authors contributed equally_
 
 
 
