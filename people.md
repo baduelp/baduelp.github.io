@@ -4,12 +4,17 @@
 
 <h1 align="center"> People </h1>
 
+<br>
+<br>
+
 ## Mounia El Messaoudi (PhD student)
 
 <img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
 
 ### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:elmessao@bio.ens.psl.eu)
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -23,6 +28,8 @@
 
 ### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:erwann.caillieux@bio.ens.psl.eu)
+<br>
+<br>
 <br>
 <br>
 <br>
