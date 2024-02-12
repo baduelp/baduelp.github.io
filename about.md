@@ -5,7 +5,7 @@
 <h1 align="center"> People </h1>
 
 
-## Pierre Baduel (team leader)
+# Pierre Baduel (team leader)
 
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="175">
 
