@@ -4,8 +4,8 @@
 <p align="center">
   <img src="/images/seedling.png" width="100">
   </p>
-  
-<br>
+
+<h1 align="center"> Research </h1>
 
 # Research 
 
