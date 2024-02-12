@@ -1,6 +1,6 @@
 <br>
 
-<img align="center" src="/images/Logo-publi.png" style="margin-right: 0px;" width="50">
+<img align="center" src="/images/Logo-publi.png" style="margin-right: auto;margin-left: auto;" width="50">
 
 # Publications 
 
