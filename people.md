@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h1 align="center"> People </h1>
+<h1 align="center"> About </h1>
 
 <p align="center">
 <b>Opening in the Fall 2024 at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris <br>
@@ -12,11 +12,13 @@ Contact us for opportunities!</b>
 <br>
 <br>
 
-## Mounia El Messaoudi (PhD student)
+<h2 align="center"> People </h2>
+
+### Mounia El Messaoudi (PhD student)
 
 <img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
 
-### Contact
+#### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:elmessao@bio.ens.psl.eu)
 <br>
 <br>
@@ -27,11 +29,11 @@ Contact us for opportunities!</b>
 <br>
 <br>
 
-## Erwann Caillieux (IE CNRS)
+### Erwann Caillieux (IE CNRS)
 
 <img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="100">
 
-### Contact
+#### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:erwann.caillieux@bio.ens.psl.eu)
 <br>
 <br>
@@ -42,13 +44,13 @@ Contact us for opportunities!</b>
 <br>
 <br>
 
-## Pierre Baduel (team leader)
+### Pierre Baduel (team leader)
 
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 
 Currently a CNRS researcher (Chargé de Recherche), I was recruited in 2021 in the Genome dynamics and epigenetic variation ([GDEV](http://www.ibens.ens.fr/spip.php?rubrique37&lang=en)) group of Dr. Vincent Colot to study transposable elements (TEs) dynamics in the <em>Arabidopsis</em> genus. Before my post-doc in the GDEV group, I completed my Ph.D. in the lab of Dr. Kirsten Bomblies at Harvard University where I studied the adaptation and evolution of polyploid <em>Arabidopsis arenosa</em> populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
 
-### Research history
+#### Research history
 
 - 2021-present: Institut de Biologie de l'École Normale Supérieure (IBENS), Paris, FR  
 _CNRS researcher_  
@@ -66,7 +68,7 @@ Evaluated ploidy-dependent genome evolution in _A. arenosa_.
 _Ph.D. student_  
 Studied genetic mechanisms of habitat adaptation in _A. arenosa_. 
 
-### Contact
+#### Contact
 
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:pbaduel@biologie.ens.fr)
 [<img align="left" src="/images/twitterlogo.png" style="margin-right: 15px;" width="35">](https://twitter.com/pierrebaduel)
