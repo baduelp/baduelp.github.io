@@ -5,7 +5,7 @@
 Our team studies the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation with a particular focus on its molecular mechanisms in <b>autopolyploids</b>. To tackle these questions, we use the reference plant <em>Arabidopsis thaliana</em> as a model and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
 </p>
 
-### Assessing how the genetic and environmental determinants of natural transposition shape its adaptive potential in _Arabidopsis thaliana_
+### Genetic and environmental determinants of transposition in nature
 
 <p align="justify">
 Standing genetic variation is generally thought to be the main source of rapid adaptation to environmental changes. As a result, genomic studies aimed at estimating the evolutionary potential of native populations in future climates have mostly focused on SNPs. However, there is increasing evidence that the rare and typically large effect alleles created by TE insertions, even though mostly deleterious, can be sometimes beneficial and contribute significantly to local adaption. Leveraging the multi-omic and bio-climatic data for more than 1,000 wild <em>A. thaliana</em> accessions sequenced as part of the 1001 Genomes project, we set out to determine the rate of TE mobilization and its potential to create adaptive variation in natural settings. 
