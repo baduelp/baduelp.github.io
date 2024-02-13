@@ -11,9 +11,9 @@ Do not hesitate to contact us for opportunities!
 ## People
 
 ### Mounia El Messaoudi
+<img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
 _PhD student_
 
-<img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
 
 #### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:elmessao@bio.ens.psl.eu)
@@ -25,9 +25,9 @@ _PhD student_
 <br>
 
 ### Erwann Caillieux 
+<img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="100">
 _CNRS Engineer_ 
 
-<img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="100">
 
 #### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:erwann.caillieux@bio.ens.psl.eu)
@@ -39,9 +39,9 @@ _CNRS Engineer_
 <br>
 
 ### Pierre Baduel
+<img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 _Team leader_
 
-<img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 
 #### Contact
 
