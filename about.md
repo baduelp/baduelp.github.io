@@ -10,7 +10,8 @@ Do not hesitate to contact us for opportunities!
 
 ## People
 
-### Mounia El Messaoudi (PhD student)
+### Mounia El Messaoudi
+_PhD student_
 
 <img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
 
@@ -23,7 +24,8 @@ Do not hesitate to contact us for opportunities!
 <br>
 <br>
 
-### Erwann Caillieux (IE CNRS)
+### Erwann Caillieux 
+_CNRS Engineer_ 
 
 <img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="100">
 
@@ -36,7 +38,8 @@ Do not hesitate to contact us for opportunities!
 <br>
 <br>
 
-### Pierre Baduel (team leader)
+### Pierre Baduel
+_Team leader_
 
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 
