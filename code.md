@@ -5,6 +5,7 @@
 The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB [2021](https://doi.org/10.1007/978-1-0716-1134-0_15), are available on our public GitHub [repository](https://github.com/baduelp/public/tree/master/SPLITREADER). <br/>
 In addition, accessory files and wrapper scripts are supplied to run the SPLITREADER pipeline on the _A. thaliana_ genome. <br/> 
 
+<!---
 ## MATLAB genomic toolbox
 Custom MATLAB functions for genomics can be downloaded from [here](https://github.com/baduelp/public/tree/master/MATLAB). 
 
@@ -33,6 +34,6 @@ Upcoming soon
 `plot_AF_PCA.m` 
   
   This Matlab function performs a principal component analysis of allele-frequency population data from next-generation sequencing. It takes as input the N x M matrix containing for each of N sites the allele-frequency of derived alleles in each of the M individuals/populations.
- 
+ --->
 
         
