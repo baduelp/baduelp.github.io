@@ -1,7 +1,8 @@
 <br>
 
-<!-- <p align="center"><img src="/images/seedling.png" width="120"></p> -->
-<h1 align="center"> <!-- :microscope: --> 🔬 <br><br> Research </h1>
+<p align="center"><img src="/images/seedling.png" width="120"></p>
+<!-- <h1 align="center"> 🔬 <br><br>  </h1>--> 
+  <h1 align="center"> Research </h1>
 
 Our team studies the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation with a particular focus on its molecular mechanisms in <b>autopolyploids</b>. To tackle these questions, we use the reference plant <em>Arabidopsis thaliana</em> as a model and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
 
