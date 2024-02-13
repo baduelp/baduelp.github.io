@@ -6,7 +6,7 @@
 
 <p align=center>
   
-**Opening in the Fall 2024 at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris**
+**Opening in the Fall 2024 at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris**<br>
 **Contact us for opportunities!**
 
 </p>
