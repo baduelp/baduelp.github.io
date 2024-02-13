@@ -1,6 +1,7 @@
 <br>
 
-<p align="center"><img src="/images/Logo-publi.png" width="80"></p>
+<!-- <p align="center"><img src="/images/Logo-publi.png" width="80"></p> -->
+<p align="center"> :books: </p>
 <h1 align="center"> Publications </h1>
 
 ## 2023
