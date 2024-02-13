@@ -1,8 +1,6 @@
 <br>
-<br>
-<br>
-
 <h1 align=center>
+📢  <br>
 Tweets
 </h1>
 Follow me on twitter for the latest updates!
