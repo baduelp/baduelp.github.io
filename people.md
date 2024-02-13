@@ -5,7 +5,7 @@
 <h1 align="center"> People </h1>
 
 > [!CAUTION]
-> Opening in the Fall 2024 at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris
+> `rgb(9, 105, 218)` Opening in the Fall 2024 at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris
 
 <br>
 <br>
