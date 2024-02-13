@@ -12,8 +12,7 @@ Do not hesitate to contact us for opportunities!
 
 ### Mounia El Messaoudi
 <img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
-<em>PhD student</em>
-
+<em>PhD student</em>  
 
 #### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:elmessao@bio.ens.psl.eu)
@@ -28,7 +27,6 @@ Do not hesitate to contact us for opportunities!
 <img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="100">
 <em>CNRS Engineer</em>
 
-
 #### Contact
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:erwann.caillieux@bio.ens.psl.eu)
 <br>
@@ -41,7 +39,6 @@ Do not hesitate to contact us for opportunities!
 ### Pierre Baduel
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 <em>Team leader</em>
-
 
 #### Contact
 
