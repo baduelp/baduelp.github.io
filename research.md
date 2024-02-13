@@ -13,9 +13,10 @@ Standing genetic variation is generally thought to be the main source of rapid a
 
 <img align="center" src="/images/GBIO_summary-fig.png" >
 
-<p align="justify">
+
+
 Using an updated pipeline to detect TE insertion polymorphisms (TIPs) from short-read sequencing data (see SPLITREADER package [here](code.md)), we identified >23,000 TIPs across >1000 accessions from across the globe. Based on this dataset, we determined the substitution rate of TIPs in nature to be almost a third of that of SNPs (between 0.06-0.08 TE insertion per genome per generation) and very close to the actual transposition rate we measured experimentally. However, unlike SNPs, TE insertions tend to have large deleterious effects when they insert within or near genes (which occurs at least 50% of the time for some TE families) and are therefore rapidly purged by purifying selection. Nonetheless, we found some gene loci to be recurrently targeted by TE insertions (most notably <em>FLC</em>’s 1st intron), and these tended to be found in disturbed environments where they showed signatures of positive selection.
-</p>
+
 
 <p align="justify">
 Furthermore, we also found that a naturally truncated variant of <em>NRPE1</em> (a key component of the RdDM pathway which targets DNA methylation over TEs) causes lower CHH methylation and higher levels of transposition, largely by enhancing the environmental sensitivity (GxE) of TEs. Strikingly, this mutator <em>NRPE1</em> allele is enriched at the edge of the environmental niche of <em>A. thaliana</em> where it itself shows signature of positive selection, akin in a way to bacterial mutator alleles that can be temporarily beneficial in harsh environments. How such an allele has been retained over long term in <em>A. thaliana</em> opens exciting avenues of inquiry, especially in times of climate crisis where TEs may be essential genomic players in the demise or rescue of native populations.
