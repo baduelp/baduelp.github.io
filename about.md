@@ -5,7 +5,7 @@
 <h1 align="center"> About </h1>
 
 Our team will be opening in the <b>Fall 2024</b> at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in the heart of Paris. <br>
-Contact us for opportunities!
+Do not hesitate to contact us for opportunities!
 
 <br>
 <br>
