@@ -16,6 +16,7 @@ Using an updated pipeline to detect TE insertion polymorphisms (TIPs) from short
 
 Furthermore, we also found that a naturally truncated variant of <em>NRPE1</em> (a key component of the RdDM pathway which targets DNA methylation over TEs) causes lower CHH methylation and higher levels of transposition, largely by enhancing the environmental sensitivity (GxE) of TEs. Strikingly, this mutator <em>NRPE1</em> allele is enriched at the edge of the environmental niche of <em>A. thaliana</em> where it itself shows signature of positive selection, akin in a way to bacterial mutator alleles that can be temporarily beneficial in harsh environments. How such an allele has been retained over long term in <em>A. thaliana</em> opens exciting avenues of inquiry, especially in times of climate crisis where TEs may be essential genomic players in the demise or rescue of native populations.
 
+#### Publications
 
 **Baduel P**, Leduque B, Ignace A, Gy I, Gil J, Loudet O, Colot V, Quadrana L. _Genetic and environmental modulation of transposition shapes the evolutionary potential of Arabidopsis thaliana_. Genome Biology, [10.1186/s13059-021-02348-5](https://doi.org/10.1186/s13059-021-02348-5), 05/2021. 
 
