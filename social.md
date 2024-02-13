@@ -2,7 +2,9 @@
 <br>
 <br>
 
-# Tweets
+<h1 align=center>
+Tweets
+</h1>
 Follow me on twitter for the latest updates!
 <div class="jekyll-twitter-plugin" align="center">
     <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/pierrebaduel?ref_src=twsrc%5Etfw">Tweets by pierrebaduel</a>
