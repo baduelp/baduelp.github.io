@@ -1,8 +1,6 @@
 <br>
-<br>
-<br>
 
-<h1 align="center"> About </h1>
+<h1 align="center"> :family:  <br> About </h1>
   
 <p align="center"><img src="/images/ibens_photo_exterieure_6.jpg" style="margin-right: 15px;" width="600"></p>  
 
