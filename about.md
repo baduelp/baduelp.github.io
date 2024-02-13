@@ -12,7 +12,7 @@ Do not hesitate to contact us for opportunities!
 
 ### Mounia El Messaoudi
 <img align="left" src="/images/mouniaelmessaoudi-cropped-8f977.jpg" style="margin-right: 15px;" width="100">
-_PhD student_
+<em>PhD student</em>
 
 
 #### Contact
@@ -26,7 +26,7 @@ _PhD student_
 
 ### Erwann Caillieux 
 <img align="left" src="/images/r1-2-b3453.png" style="margin-right: 15px;" width="100">
-_CNRS Engineer_ 
+<em>CNRS Engineer</em>
 
 
 #### Contact
@@ -40,7 +40,7 @@ _CNRS Engineer_
 
 ### Pierre Baduel
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
-_Team leader_
+<em>Team leader</em>
 
 
 #### Contact
