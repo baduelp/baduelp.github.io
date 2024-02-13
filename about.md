@@ -12,7 +12,7 @@ Contact us for opportunities!</b>
 <br>
 <br>
 
-<h2 align="center"> People </h2>
+## People
 
 ### Mounia El Messaoudi (PhD student)
 
