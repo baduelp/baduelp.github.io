@@ -4,6 +4,9 @@
 
 <h1 align="center"> People </h1>
 
+$${\color{red}Opening in the Fall 2024 at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris}$$
+
+
 <br>
 <br>
 
@@ -41,7 +44,7 @@
 
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 
-Currently a CNRS researcher (Chargé de Recherche), I was recruited in 2021 in the Genome dynamics and epigenetic variation ([GDEV](http://www.ibens.ens.fr/spip.php?rubrique37&lang=en)) group of Dr. Vincent Colot at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in Paris to study transposable elements (TEs) dynamics in the <em>Arabidopsis</em> genus. Before my post-doc in the GDEV group, I completed my Ph.D. in the lab of Dr. Kirsten Bomblies at Harvard University where I studied the adaptation and evolution of polyploid <em>Arabidopsis arenosa</em> populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
+Currently a CNRS researcher (Chargé de Recherche), I was recruited in 2021 in the Genome dynamics and epigenetic variation ([GDEV](http://www.ibens.ens.fr/spip.php?rubrique37&lang=en)) group of Dr. Vincent Colot to study transposable elements (TEs) dynamics in the <em>Arabidopsis</em> genus. Before my post-doc in the GDEV group, I completed my Ph.D. in the lab of Dr. Kirsten Bomblies at Harvard University where I studied the adaptation and evolution of polyploid <em>Arabidopsis arenosa</em> populations, which I then further studied for patterns of genome evolution during a short postdoc at the John Innes Centre in Norwich, UK. 
 
 ### Research history
 
