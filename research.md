@@ -4,7 +4,7 @@
 <!-- <h1 align="center"> 🔬 <br><br>  </h1>--> 
   <h1 align="center"> Research </h1>
 
-Our team studies the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation of functional importance and how it can be modulated by <b>genetic</b> as well as <b>environmental</b> determinants ([axis 1](#axis-1-genetic-and-environmental-determinants-of-transposition-in-nature)),  <b>mating systems</b> (axis 2), or <b>ploidy</b> (axis 3). To tackle these questions, we use the  species of the  <em>Arabidopsis</em> genus, notably the model plant <em>A. thaliana</em> as a study system and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
+Our team studies the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation of functional importance and how it can be modulated by <b>genetic</b> as well as <b>environmental</b> determinants ([axis 1](#axis-1-genetic-and-environmental-determinants-of-transposition-in-nature)),  <b>mating systems</b> ([axis 2](#axis-2-impact-of-the-mating-type-on-te-mobilization-dynamics), or <b>ploidy</b> ([axis 3](#axis-3-impact-of-autopolyploidy-on-the-epigenetic-control-of-tes)). To tackle these questions, we use the  species of the  <em>Arabidopsis</em> genus, notably the model plant <em>A. thaliana</em> as a study system and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
 
 ### Axis 1 - Genetic and environmental determinants of transposition in nature
 
