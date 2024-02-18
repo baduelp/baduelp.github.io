@@ -5,9 +5,10 @@
 <p align="center"><img src="/images/ibens_photo_exterieure_6.jpg" style="corner-radius:50%" width="600"></p>  
 
   
-Our team will be opening in the <b>Fall 2024</b> at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in the heart of Paris. <br>
-Do not hesitate to contact us for opportunities!
+Team PEpiTE will be opening in the <b>Fall 2024</b> at the Institut de Biologie de l'École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/?lang=en)) in the heart of Paris. <br>
+Do not hesitate to reach out for opportunities!
 
+<!--
 ## People
 
 ### Mounia El Messaoudi
@@ -35,10 +36,11 @@ Do not hesitate to contact us for opportunities!
 <br>
 <br>
 <br>
+-->
 
 ### Pierre Baduel
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
-<em>Team leader</em>
+<!--<em>Team leader</em>-->
 
 #### Contact
 
