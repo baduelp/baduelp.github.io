@@ -4,7 +4,7 @@
 <h1 align="center"> 👩‍💻 <br><br> Code </h1>
 
 ## SPLITREADER pipeline 
-The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB [2021](https://doi.org/10.1007/978-1-0716-1134-0_15), are available on our public GitHub [repository](https://github.com/baduelp/public/tree/master/SPLITREADER). 
+The scripts to detect non-reference transposable element insertions from short-read sequencing data, as described in Baduel et al. MMB [2021](https://doi.org/10.1007/978-1-0716-1134-0_15), are available on my public GitHub [repository](https://github.com/baduelp/public/tree/master/SPLITREADER). 
 <br>
 <br>
 In addition, accessory files and wrapper scripts are supplied to run the SPLITREADER pipeline on the _A. thaliana_ genome. <br/> 
