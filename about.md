@@ -45,7 +45,6 @@ Do not hesitate to reach out for opportunities!
 #### Contact
 
 [<img align="left" src="/images/emaillogo.png" style="margin-right: 15px;" width="35">](mailto:pbaduel@biologie.ens.fr)
-[<img align="left" src="/images/twitterlogo.png" style="margin-right: 15px;" width="35">](https://twitter.com/pierrebaduel)
 [<img align="left" src="/images/scholarlogo.png" style="margin-right: 15px;" width="35">](https://scholar.google.com/citations?user=PtgZ2nsAAAAJ&hl=en)<br/>
 <br/>
 <!--[<img align="left" src="/images/linkedinlogo2.png" style="margin-right: 15px;" width="30">](https://www.linkedin.com/in/pierre-baduel-2b5280105/)
