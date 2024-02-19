@@ -4,8 +4,9 @@
 - Social - 
 </h1>
 
-[<img align="center" src="/images/twitterlogo.png" style="margin-right: 15px;" width="35">](https://twitter.com/pierrebaduel)
-Follow me on twitter for the latest updates! 
+
+<p align=center>
+Follow me on twitter for the latest updates! </p>
     <br><br>
     
 <div class="jekyll-twitter-plugin" align="center">
