@@ -38,7 +38,7 @@ Do not hesitate to reach out for opportunities!
 <br>
 -->
 
-### Pierre Baduel
+### Bio
 <img align="left" src="/images/IMG_20191219_160240~2sq.jpg" style="margin-right: 15px;" width="100">
 <!--<em>Team leader</em>-->
 
