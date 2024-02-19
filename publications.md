@@ -3,7 +3,7 @@
 <!-- <p align="center"><img src="/images/Logo-publi.png" width="80"></p> -->
 
 <h1 align="center"> 📚  <br><br>
- Publications </h1>
+ - Publications - </h1>
 
 ## 2023
 
