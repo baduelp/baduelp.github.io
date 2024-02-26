@@ -53,9 +53,9 @@ Furthermore, I found that the TE insertions that accumulated within polyploid ge
  
 **Baduel P**, Bray S, Vallejo-Marin M, Kolář F, Yant L. _The ‘Polyploid Hop’: shifting challenges and opportunities over the evolutionary lifespan of genome duplications_. Frontiers in Ecology and Evolution, [0.3389/fevo.2018.00117](https://doi.org/10.3389/fevo.2018.00117) 07/2018
 
-<-- In this axis, we aim at investigating the role of transposable element (TE) mobilization in the rapid generation of genetic variation following WGD. Indeed, TEs are powerful generators of major-effect mutations with specific sensitivities to environmental stress, which confer them a unique potential to contribute to rapid local adaptations. Furthermore, the epigenetic mechanisms that control their mobilization, notably DNA methylation, is disrupted by WGD in several species. Thus, TEs could represent a major engine of phenotypic exploration for neo-polyploids, notably in the face of challenging environments.
+<!-- In this axis, we aim at investigating the role of transposable element (TE) mobilization in the rapid generation of genetic variation following WGD. Indeed, TEs are powerful generators of major-effect mutations with specific sensitivities to environmental stress, which confer them a unique potential to contribute to rapid local adaptations. Furthermore, the epigenetic mechanisms that control their mobilization, notably DNA methylation, is disrupted by WGD in several species. Thus, TEs could represent a major engine of phenotypic exploration for neo-polyploids, notably in the face of challenging environments.
 
-<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as by a PhD fellowship from PSL University awarded to Mounia El Messaoudi.  --!>
+<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as by a PhD fellowship from PSL University awarded to Mounia El Messaoudi.  -->
 
 
 
