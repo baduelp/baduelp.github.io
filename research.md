@@ -33,7 +33,7 @@ To study how mating systems impact the dynamics of TE accumulation, we used the 
 
 **Funding** This axis of research is part of the ANR PRC TE-MoMA (AAPG PRC 2018) led by Vincent Castric (Lille University) in collaboration with Vincent Colot (IBENS) and Jean-Marc Aury (Genoscope).
 
-### Theme 3 - Impact of autopolyploidy on the epigenetic control of TEs 
+### Theme 3 - Impact of autopolyploidy on the mobilization dynamics of TEs 
 
 Whole genome duplications (WGDs) are recurrent events throughout eukaryote evolution and the initial adaptive advantage they are associated with has been attributed in part to the increased genetic diversity of polyploid genomes (Baduel et al., _Front Ecol Evol_ 2018). Yet, the molecular mechanisms generating this diversity remain unclear. 
 
@@ -49,9 +49,13 @@ Furthermore, I found that the TE insertions that accumulated within polyploid ge
 
 #### Related publications
 
---> In this axis, we aim at investigating the role of transposable element (TE) mobilization in the rapid generation of genetic variation following WGD. Indeed, TEs are powerful generators of major-effect mutations with specific sensitivities to environmental stress, which confer them a unique potential to contribute to rapid local adaptations. Furthermore, the epigenetic mechanisms that control their mobilization, notably DNA methylation, is disrupted by WGD in several species. Thus, TEs could represent a major engine of phenotypic exploration for neo-polyploids, notably in the face of challenging environments.
+**Baduel P**, Quadrana L, Hunter B, Bomblies K, Colot V. _Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation_. Nature Communications,[10.1038/s41467-019-13730-0](https://doi.org/10.1038/s41467-019-13730-0), 12/2019
+ 
+**Baduel P**, Bray S, Vallejo-Marin M, Kolář F, Yant L. _The ‘Polyploid Hop’: shifting challenges and opportunities over the evolutionary lifespan of genome duplications_. Frontiers in Ecology and Evolution, [0.3389/fevo.2018.00117](https://doi.org/10.3389/fevo.2018.00117) 07/2018
 
-<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as by a PhD fellowship from PSL University awarded to Mounia El Messaoudi.  <!--
+<-- In this axis, we aim at investigating the role of transposable element (TE) mobilization in the rapid generation of genetic variation following WGD. Indeed, TEs are powerful generators of major-effect mutations with specific sensitivities to environmental stress, which confer them a unique potential to contribute to rapid local adaptations. Furthermore, the epigenetic mechanisms that control their mobilization, notably DNA methylation, is disrupted by WGD in several species. Thus, TEs could represent a major engine of phenotypic exploration for neo-polyploids, notably in the face of challenging environments.
+
+<b>Funding:</b> This project is funded in part by the ANR JCJC POLYSTRESS grant (AAPG2023) as well as by a PhD fellowship from PSL University awarded to Mounia El Messaoudi.  --!>
 
 
 
