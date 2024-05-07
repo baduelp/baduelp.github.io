@@ -1,11 +1,11 @@
 <br>
 
 <!-- <p align="center"><img src="/images/Logo-code.png" width="80"></p> -->
-<h1 align="center"> 👩‍💻 <br><br> - Code - </h1>
-
-# public pipelines 
+<h1 align="center"> 👩‍💻 <br><br> - Code - 
 
 _If you have any question or comment please reach me through the channels listed [there](http://pbaduel.com/about)._
+</h1>
+
 
 ## [SPLITREADER](/SPLITREADER) 
 
