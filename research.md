@@ -5,7 +5,7 @@
   <h1 align="center"> - Research -
   </h1>
 
-My research focuses on understanding the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation of functional importance and how it can be modulated by <b>genetic</b> as well as <b>environmental</b> determinants ([theme 1](#theme-1-genetic-and-environmental-determinants-of-transposition-in-nature)),  <b>mating systems</b> ([theme 2](#theme-2-impact-of-the-mating-type-on-te-mobilization-dynamics)), or <b>ploidy</b> ([theme 3](#theme-3-impact-of-autopolyploidy-on-the-epigenetic-control-of-tes)). To tackle these questions, we use the  species of the  <em>Arabidopsis</em> genus, notably the model plant <em>A. thaliana</em>, as a study system and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
+My research focuses on understanding the contribution of <b>transposable elements</b> (TEs) as a source of heritable allelic and epiallelic variation of functional importance and how it can be modulated by <b>genetic</b> as well as <b>environmental</b> determinants ([theme 1](#theme-1-genetic-and-environmental-determinants-of-transposition-in-nature)),  <b>mating systems</b> ([theme 2](#theme-2-impact-of-the-mating-type-on-te-mobilization-dynamics)), or <b>ploidy</b> ([theme 3](#theme-3-impact-of-autopolyploidy-on-the-epigenetic-control-of-tes)). To tackle these questions, I use the species of the  <em>Arabidopsis</em> genus, notably the model plant <em>A. thaliana</em>, as a study system and combines multi-omic bioinformatic approaches with plant molecular genetics and field collections.
 
 ### Theme 1 - Genetic and environmental determinants of transposition in nature
 
